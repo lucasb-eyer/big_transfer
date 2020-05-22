@@ -1,0 +1,8 @@
+numpy
+scipy
+torch==1.4.0
+torchvision==0.5.0
+Cython
+sotabench
+sotabenchapi
+git+git://github.com/lucasb-eyer/sotabench-eval@patch-2#egg=sotabencheval
